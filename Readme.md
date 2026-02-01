@@ -35,7 +35,7 @@ cd "ATM Python"
 python ATM.py
 ```
 
-### 2. 🎰 Casino Royale
+### 2. 🎰 Casino 
 A fun luck-based game where users can place bets and track their virtual currency.
 *   **Features:** Betting logic, winning algorithms, and a built-in database viewer.
 *   **Location:** `Casino Python/`
